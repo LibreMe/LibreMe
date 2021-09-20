@@ -1,10 +1,10 @@
 <img style="margin-top: 40px;" align="right" width="190px" src="https://media.giphy.com/media/V2ojLo7PvhVug/giphy.gif">
 
-# Seja bem vindo(a) ao meu mundo! É complicado, mas você se acostuma :) 
+# Seja bem vindo(a) ao laod técnico do LibreMe, é aqui que a mágica acontece! 
 
 
 
-- 💻 Desenvolvedora de software
+- 💻 WebApp | Tradutor de LIBRAS
 
 
 
@@ -20,4 +20,4 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielaSenna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div><br>	
 
-🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/gabriela-moreira-senna/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+🔗 Clique no botão ao lado para conhecer mais do projeto <a href="https://www.linkedin.com/in/gabriela-moreira-senna/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
