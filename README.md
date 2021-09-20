@@ -1,6 +1,6 @@
 
 
-# Seja bem vindo(a) ao laod técnico do LibreMe, é aqui que a mágica acontece! 
+# Seja bem vindo(a) ao lado técnico do LibreMe, é aqui que a mágica acontece! 
 
 
 
