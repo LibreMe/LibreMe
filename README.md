@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="190px" src="https://media.giphy.com/media/V2ojLo7PvhVug/giphy.gif">
+
 
 # Seja bem vindo(a) ao laod técnico do LibreMe, é aqui que a mágica acontece! 
 
