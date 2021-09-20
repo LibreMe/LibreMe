@@ -20,4 +20,4 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielaSenna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div><br>	
 
-🔗 Clique no botão ao lado para conhecer mais do projeto <a href="https://www.linkedin.com/in/gabriela-moreira-senna/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+🔗 Clique no botão ao lado para conhecer mais do projeto <a href="https://www.linkedin.com/in/libreme/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
